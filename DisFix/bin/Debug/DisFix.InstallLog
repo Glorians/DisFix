@@ -1,0 +1,30 @@
+﻿Выполняется установка сборки 'C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.InstallLog
+   assemblypath = C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe.
+Выполняется фиксация сборки 'C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.InstallLog
+   assemblypath = C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.InstallLog
+   assemblypath = C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe.
+Выполняется фиксация сборки 'C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.InstallLog
+   assemblypath = C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.

@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe.config
+C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.exe
+C:\Users\Alex\Desktop\DisFix\DisFix\bin\Debug\DisFix.pdb
+C:\Users\Alex\Desktop\DisFix\DisFix\obj\Debug\DisFix.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\DisFix\DisFix\obj\Debug\DisFix.exe
+C:\Users\Alex\Desktop\DisFix\DisFix\obj\Debug\DisFix.pdb
